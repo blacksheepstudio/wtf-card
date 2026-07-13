@@ -13,15 +13,15 @@
 	"observability": {
 		"enabled": true
 	},
-{
-"d1_databases":[
- {
-  "binding":"DB",
-  "database_name":"wtf-card",
-  "database_id":"e2592b64-bc54-4fb6-8188-740e6c8aea8b"
- }
-]
-},
+	{
+		"d1_databases":[
+			 {
+			  "binding":"DB",
+			  "database_name":"wtf-card",
+			  "database_id":"e2592b64-bc54-4fb6-8188-740e6c8aea8b"
+			 }
+		]
+	},
 	/**
 	 * Smart Placement
 	 * Docs: https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
